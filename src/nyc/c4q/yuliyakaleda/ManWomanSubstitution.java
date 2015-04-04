@@ -7,7 +7,7 @@ package nyc.c4q.yuliyakaleda;
  * Created on 03-18-2015
  */
 
-public class manWomanSubstitution {
+public class ManWomanSubstitution {
 
     public static String substitution (String text) {
         //split the string into separate words and store them in an array
