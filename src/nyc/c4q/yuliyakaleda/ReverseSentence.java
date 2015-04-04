@@ -7,7 +7,7 @@ package nyc.c4q.yuliyakaleda;
  * Created on 03-18-2015
  */
 
-public class reverseSentence {
+public class ReverseSentence {
 
     public static String reverse(String text) {
 
