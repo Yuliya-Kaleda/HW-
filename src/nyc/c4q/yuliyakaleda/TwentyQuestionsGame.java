@@ -9,7 +9,7 @@ package nyc.c4q.yuliyakaleda;
 
 import java.util.Scanner;
 
-public class twentyQuestionsGame {
+public class TwentyQuestionsGame {
 
     //check whether userInput is an integer
     public static boolean validInput(Scanner in){
