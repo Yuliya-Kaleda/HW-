@@ -7,7 +7,7 @@ package nyc.c4q.yuliyakaleda;
  * Created on 03-18-2015
  */
 
-public class prettyTitle {
+public class PrettyTitle {
 
     public static void printTitle(String text, char symbol) {
         int len = text.length();
