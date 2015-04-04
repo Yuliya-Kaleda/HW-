@@ -7,7 +7,7 @@ package nyc.c4q.yuliyakaleda;
  * Created on 03-18-2015
  */
 
-public class averageWordLength {
+public class AverageWordLength {
 
     public static int lettersNumber (String text) {
         int totalLetters = 0;
