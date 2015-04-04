@@ -6,7 +6,7 @@ package nyc.c4q.yuliyakaleda;
  * Count Words
  * Created on 03-18-2015
  */
-public class countWords {
+public class CountWords {
 
     public static int counter(String text) {
         int total = 0;
